@@ -1,1 +1,3 @@
-# kidney-stone-classifier
+# Kidney Stone Classifier
+
+### Kaggle playground project
